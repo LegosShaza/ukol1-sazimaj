@@ -1,0 +1,7 @@
+# Ignorovat binární soubory a dočasné soubory
+bin/
+obj/
+*.exe
+*.dll
+*.user
+*.log
